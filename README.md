@@ -1,8 +1,5 @@
 # AI-Capstone-Project
 
-AI Capstone Project E-commerce DESCRIPTION Problem Statement...
-AI Capstone Project
-
 E-commerce
 
 DESCRIPTION
